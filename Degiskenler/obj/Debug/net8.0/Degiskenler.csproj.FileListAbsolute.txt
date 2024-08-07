@@ -1,0 +1,15 @@
+C:\Users\devfr\Desktop\PatikaNotlar-m\Degiskenler\bin\Debug\net8.0\Degiskenler.exe
+C:\Users\devfr\Desktop\PatikaNotlar-m\Degiskenler\bin\Debug\net8.0\Degiskenler.deps.json
+C:\Users\devfr\Desktop\PatikaNotlar-m\Degiskenler\bin\Debug\net8.0\Degiskenler.runtimeconfig.json
+C:\Users\devfr\Desktop\PatikaNotlar-m\Degiskenler\bin\Debug\net8.0\Degiskenler.dll
+C:\Users\devfr\Desktop\PatikaNotlar-m\Degiskenler\bin\Debug\net8.0\Degiskenler.pdb
+C:\Users\devfr\Desktop\PatikaNotlar-m\Degiskenler\obj\Debug\net8.0\Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devfr\Desktop\PatikaNotlar-m\Degiskenler\obj\Debug\net8.0\Degiskenler.AssemblyInfoInputs.cache
+C:\Users\devfr\Desktop\PatikaNotlar-m\Degiskenler\obj\Debug\net8.0\Degiskenler.AssemblyInfo.cs
+C:\Users\devfr\Desktop\PatikaNotlar-m\Degiskenler\obj\Debug\net8.0\Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\devfr\Desktop\PatikaNotlar-m\Degiskenler\obj\Debug\net8.0\Degiskenler.sourcelink.json
+C:\Users\devfr\Desktop\PatikaNotlar-m\Degiskenler\obj\Debug\net8.0\Degiskenler.dll
+C:\Users\devfr\Desktop\PatikaNotlar-m\Degiskenler\obj\Debug\net8.0\refint\Degiskenler.dll
+C:\Users\devfr\Desktop\PatikaNotlar-m\Degiskenler\obj\Debug\net8.0\Degiskenler.pdb
+C:\Users\devfr\Desktop\PatikaNotlar-m\Degiskenler\obj\Debug\net8.0\Degiskenler.genruntimeconfig.cache
+C:\Users\devfr\Desktop\PatikaNotlar-m\Degiskenler\obj\Debug\net8.0\ref\Degiskenler.dll
