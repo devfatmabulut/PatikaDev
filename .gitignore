@@ -1,9 +1,10 @@
 /.vscode
-/bin
-/obj
+/.bin
+
 *.csproj
-!/obj
+
 *.json
 /vs
 *vs
-/bin/Debug/net8.0
+/.bin/Debug/net8.0
+*.props
