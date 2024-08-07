@@ -2,3 +2,7 @@
 /bin
 /obj
 *.csproj
+!/obj
+*.json
+/vs
+*vs

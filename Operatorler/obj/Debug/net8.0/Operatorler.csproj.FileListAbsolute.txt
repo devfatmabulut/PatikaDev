@@ -1,0 +1,10 @@
+C:\Users\devfr\Desktop\PatikaNotlar-m\Operatorler\obj\Debug\net8.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devfr\Desktop\PatikaNotlar-m\Operatorler\obj\Debug\net8.0\Operatorler.AssemblyInfoInputs.cache
+C:\Users\devfr\Desktop\PatikaNotlar-m\Operatorler\obj\Debug\net8.0\Operatorler.AssemblyInfo.cs
+C:\Users\devfr\Desktop\PatikaNotlar-m\Operatorler\obj\Debug\net8.0\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\devfr\Desktop\PatikaNotlar-m\Operatorler\obj\Debug\net8.0\Operatorler.sourcelink.json
+C:\Users\devfr\Desktop\PatikaDev\Operatorler\obj\Debug\net8.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devfr\Desktop\PatikaDev\Operatorler\obj\Debug\net8.0\Operatorler.AssemblyInfoInputs.cache
+C:\Users\devfr\Desktop\PatikaDev\Operatorler\obj\Debug\net8.0\Operatorler.AssemblyInfo.cs
+C:\Users\devfr\Desktop\PatikaDev\Operatorler\obj\Debug\net8.0\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\devfr\Desktop\PatikaDev\Operatorler\obj\Debug\net8.0\Operatorler.sourcelink.json
