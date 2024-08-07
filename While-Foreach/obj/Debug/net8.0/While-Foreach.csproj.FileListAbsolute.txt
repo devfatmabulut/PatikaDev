@@ -1,0 +1,15 @@
+C:\Users\devfr\Desktop\PatikaDev\While-Foreach\bin\Debug\net8.0\While-Foreach.exe
+C:\Users\devfr\Desktop\PatikaDev\While-Foreach\bin\Debug\net8.0\While-Foreach.deps.json
+C:\Users\devfr\Desktop\PatikaDev\While-Foreach\bin\Debug\net8.0\While-Foreach.runtimeconfig.json
+C:\Users\devfr\Desktop\PatikaDev\While-Foreach\bin\Debug\net8.0\While-Foreach.dll
+C:\Users\devfr\Desktop\PatikaDev\While-Foreach\bin\Debug\net8.0\While-Foreach.pdb
+C:\Users\devfr\Desktop\PatikaDev\While-Foreach\obj\Debug\net8.0\While-Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devfr\Desktop\PatikaDev\While-Foreach\obj\Debug\net8.0\While-Foreach.AssemblyInfoInputs.cache
+C:\Users\devfr\Desktop\PatikaDev\While-Foreach\obj\Debug\net8.0\While-Foreach.AssemblyInfo.cs
+C:\Users\devfr\Desktop\PatikaDev\While-Foreach\obj\Debug\net8.0\While-Foreach.csproj.CoreCompileInputs.cache
+C:\Users\devfr\Desktop\PatikaDev\While-Foreach\obj\Debug\net8.0\While-Foreach.sourcelink.json
+C:\Users\devfr\Desktop\PatikaDev\While-Foreach\obj\Debug\net8.0\While-Foreach.dll
+C:\Users\devfr\Desktop\PatikaDev\While-Foreach\obj\Debug\net8.0\refint\While-Foreach.dll
+C:\Users\devfr\Desktop\PatikaDev\While-Foreach\obj\Debug\net8.0\While-Foreach.pdb
+C:\Users\devfr\Desktop\PatikaDev\While-Foreach\obj\Debug\net8.0\While-Foreach.genruntimeconfig.cache
+C:\Users\devfr\Desktop\PatikaDev\While-Foreach\obj\Debug\net8.0\ref\While-Foreach.dll
