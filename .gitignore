@@ -6,3 +6,4 @@
 *.json
 /vs
 *vs
+/bin/Debug/net8.0
