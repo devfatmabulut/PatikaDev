@@ -1,0 +1,15 @@
+C:\Users\devfr\Desktop\PatikaDev\Switch-Case\bin\Debug\net8.0\Switch-Case.exe
+C:\Users\devfr\Desktop\PatikaDev\Switch-Case\bin\Debug\net8.0\Switch-Case.deps.json
+C:\Users\devfr\Desktop\PatikaDev\Switch-Case\bin\Debug\net8.0\Switch-Case.runtimeconfig.json
+C:\Users\devfr\Desktop\PatikaDev\Switch-Case\bin\Debug\net8.0\Switch-Case.dll
+C:\Users\devfr\Desktop\PatikaDev\Switch-Case\bin\Debug\net8.0\Switch-Case.pdb
+C:\Users\devfr\Desktop\PatikaDev\Switch-Case\obj\Debug\net8.0\Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devfr\Desktop\PatikaDev\Switch-Case\obj\Debug\net8.0\Switch-Case.AssemblyInfoInputs.cache
+C:\Users\devfr\Desktop\PatikaDev\Switch-Case\obj\Debug\net8.0\Switch-Case.AssemblyInfo.cs
+C:\Users\devfr\Desktop\PatikaDev\Switch-Case\obj\Debug\net8.0\Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\devfr\Desktop\PatikaDev\Switch-Case\obj\Debug\net8.0\Switch-Case.sourcelink.json
+C:\Users\devfr\Desktop\PatikaDev\Switch-Case\obj\Debug\net8.0\Switch-Case.dll
+C:\Users\devfr\Desktop\PatikaDev\Switch-Case\obj\Debug\net8.0\refint\Switch-Case.dll
+C:\Users\devfr\Desktop\PatikaDev\Switch-Case\obj\Debug\net8.0\Switch-Case.pdb
+C:\Users\devfr\Desktop\PatikaDev\Switch-Case\obj\Debug\net8.0\Switch-Case.genruntimeconfig.cache
+C:\Users\devfr\Desktop\PatikaDev\Switch-Case\obj\Debug\net8.0\ref\Switch-Case.dll
