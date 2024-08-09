@@ -18,7 +18,7 @@
     [2,6,16,18,22,27] 2,6 ve 16 artık sabit. 22 ve 18 yer değiştirir **n-3**
 
     [2,6,16,18,22,27] Sıradaki sayı 22 bu yüzden bir işlem yapmıyoruz ve Sıralamamız artık 1'e eşitlendi. **1**
-    
+
 
 * Big-O gösterimini yazınız. -> **O(n)**
 
@@ -28,7 +28,7 @@
 2. Worst case: Aradığımız sayının sonda olması
 3. Best case: Aradığımız sayının dizinin en başında olması.
 
-**CEVAP :**  *1. Average Vase*
+**CEVAP :**  *1. Average case*
 
 ### 2.KISIM
 **[7,3,5,8,2,9,4,15,6]** dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
