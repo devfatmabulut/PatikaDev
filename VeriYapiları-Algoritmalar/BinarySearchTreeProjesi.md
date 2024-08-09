@@ -21,4 +21,4 @@
                 5            8
                      3               9      7. Aşama  : 9, 7'den büyük ve 8'den büyük bu yüzden 8'in sağ altına gelir.
             1     4     6                   8. Aşama  : 4, 5'ten küçük ve 3'ten büyük ama 6'dan küçük bu yüzden 6'nın sol altına gelir.
-        0        2                           9. Aşama  : 2, 3'ten küçük bu yüzden 3'ün sol altına gelir.
+        0        2                          9. Aşama  : 2, 3'ten küçük bu yüzden 3'ün sol altına gelir.
