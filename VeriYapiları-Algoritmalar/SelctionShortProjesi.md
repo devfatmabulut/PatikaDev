@@ -6,6 +6,7 @@
 **[22,27,16,2,18,6] -> Insertion Sort**
 
 * Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+
     [22,27,16,2,18,6] **Dizi**
     [2,27,16,22,18,6] 22 ile 2 yer değişir -> **n**
     [2,6,16,22,18,27] 2 artık sabit. 27 ile 6 yer değişir ->**n-1**
