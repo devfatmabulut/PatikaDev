@@ -8,11 +8,17 @@
 * Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
     [22,27,16,2,18,6] **Dizi**
+
     [2,27,16,22,18,6] 22 ile 2 yer değişir -> **n**
+
     [2,6,16,22,18,27] 2 artık sabit. 27 ile 6 yer değişir ->**n-1**
+
     [2,6,16,22,18,27] 2 ve 6 artık sabit. Sıradaki sayı 16 bu yüzden bir şey yapmıyoruz. **n-2**
+
     [2,6,16,18,22,27] 2,6 ve 16 artık sabit. 22 ve 18 yer değiştirir **n-3**
+
     [2,6,16,18,22,27] Sıradaki sayı 22 bu yüzden bir işlem yapmıyoruz ve Sıralamamız artık 1'e eşitlendi. **1**
+    
 
 * Big-O gösterimini yazınız. -> **O(n)**
 
