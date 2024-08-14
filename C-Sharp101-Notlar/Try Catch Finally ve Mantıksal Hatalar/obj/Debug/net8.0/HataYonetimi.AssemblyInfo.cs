@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HataYonetimi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c594cc5bc511c665bbfdea181784bbd07cffc7f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c2490213d1ec926ad022cdaa2ba7b488ca8f94c")]
 [assembly: System.Reflection.AssemblyProductAttribute("HataYonetimi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HataYonetimi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
